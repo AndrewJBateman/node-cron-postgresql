@@ -1,10 +1,7 @@
-import { createClient } from "@supabase/supabase-js";
 import config from "config";
+import supabase from "./supabase.service";
 
-const dbUrl = config.get<string>("dbUrl");
-const dbKey = config.get<string>("dbKey");
 const dbTableName = config.get<string>("dbTableName");
-const supabase = createClient(dbUrl, dbKey);
 const tableName = dbTableName;
 
 // get data from database
