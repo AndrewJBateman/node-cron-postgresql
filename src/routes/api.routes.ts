@@ -5,8 +5,8 @@ import { getDataHandler, getCronHandler } from "../controllers/data.controller";
 
 // export single function to handle all express routes
 function apiRoutes(app: Express) {
-  app.get('/api', getDataHandler)
-  app.get('/api/cron', getCronHandler)
+  app.get("/api", getDataHandler);
+  app.get("/api/cron", getCronHandler);
 }
 
 export default apiRoutes;

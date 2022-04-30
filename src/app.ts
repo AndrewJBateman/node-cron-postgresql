@@ -1,7 +1,7 @@
 import express from "express";
 import config from "config";
 
-import apiRoutes from "./routes/api";
+import apiRoutes from "./routes/api.routes";
 
 const port = config.get<number>("port");
 

@@ -11,9 +11,15 @@ const runCronJob = async () => {
 
   // Fetch then filter RSS feed data by category
   // assign each filtered item a unique id and pick by title
+  // {
+  //   id: '9cbe9284-d5cd-4d00-b6f7-f856be2b9e27',
+  //   title: 'Amgen vows to fight $7.1B tax bill tied to Puerto Rico manufacturing unit',
+  //   url: 'https://www.fiercepharma.com/pharma/amgen-vows-fight-71b-tax-bill-tied-puerto-rico-manufacturing-unit',   
+  //   source: '1303811 at https://www.fiercepharma.com',
+  //   date: '2022-04-27T21:13:19.000Z'
+  // }
   const rssData = await xmlFeed();
   const pickedData = rssData.items
-    .filter((item: any) => item.categories.includes("News"))
     .map(pickFeedItem)
     .map((item: any) => ({
       id: uuidv4(),
@@ -22,15 +28,13 @@ const runCronJob = async () => {
       source: item.guid,
       date: new Date(item.pubDate).toISOString(),
     }));
-  console.log("pickedData: ", pickedData);
 
   // Filter out feed items that are already in the DB
-
-  // Get overlapping IDs that are already in the DB
   const allSources = pickedData.map((entry: any) => entry.source);
+  console.log('allSources: ', allSources)
   const { data: overlappingSourcesDbResult, error: overlappingQueryError } =
     await supabase.from(dbTableName).select("source").in("source", allSources);
-
+  console.log('data, error: ', { data: overlappingSourcesDbResult, error: overlappingQueryError })
   if (overlappingQueryError) {
     throw new Error(overlappingQueryError.message);
   }

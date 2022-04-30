@@ -1,5 +1,6 @@
 const XML_FEED =
-  "https://www.inoreader.com/stream/user/1004829501/tag/user-favorites";
+  //"http://feeds.bbci.co.uk/news/world/rss.xml"
+  "https://www.fiercepharma.com/rss/xml"
 
 import Parser from "rss-parser";
 
