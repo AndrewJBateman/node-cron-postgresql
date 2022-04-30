@@ -1,0 +1,634 @@
+{
+  items: [
+    {
+      creator: 'kdunleavy',
+      title: "AbbVie's red-hot Rinvoq scores fourth FDA approval in five months",
+      link: 'https://www.fiercepharma.com/pharma/abbvies-rinvoq-scores-fourth-fda-approval-last-five-months-ankylosing-spondylitis-nod',
+      pubDate: 'Fri, 29 Apr 2022 20:40:58 +0000',
+      'dc:creator': 'kdunleavy',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">AbbVie's red-hot Rinvoq scores fourth FDA approval in five months</span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/816" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">kdunleavy</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T20:40:58+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 16:40</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "AbbVie's red-hot Rinvoq scores fourth FDA approval in five months\n" +
+        'kdunleavy\n' +
+        'Fri, 04/29/2022 - 16:40',
+      guid: '1304221 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T20:40:58.000Z'
+    },
+    {
+      creator: 'esagonowsky',
+      title: 'Pfizer loses top vaccine scientist Jansen who led drive for COVID-19 shot, searches for successor',   
+      link: 'https://www.fiercepharma.com/pharma/pfizer-loses-top-vaccine-scientist-jansen-searches-successor',     
+      pubDate: 'Fri, 29 Apr 2022 19:23:24 +0000',
+      'dc:creator': 'esagonowsky',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Pfizer loses top vaccine scientist Jansen who led drive for COVID-19 shot, searches for successor</span>\n' +       
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/791" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">esagonowsky</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T19:23:24+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 15:23</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'Pfizer loses top vaccine scientist Jansen who led drive for COVID-19 shot, searches for successor\n' +
+        'esagonowsky\n' +
+        'Fri, 04/29/2022 - 15:23',
+      guid: '1304206 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T19:23:24.000Z'
+    },
+    {
+      creator: 'fkansteiner',
+      title: "Novo's Wegovy supply rebound on track for later this year as demand stays strong",
+      link: 'https://www.fiercepharma.com/pharma/novos-wegovy-supply-rebound-track-second-half-2022-execs-break-out-first-ever-sales-figures',
+      pubDate: 'Fri, 29 Apr 2022 17:32:03 +0000',
+      'dc:creator': 'fkansteiner',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Novo's Wegovy supply rebound on track for later this year as demand stays strong</span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/806" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">fkansteiner</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T17:32:03+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 13:32</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "Novo's Wegovy supply rebound on track for later this year as demand stays strong\n" +        
+        'fkansteiner\n' +
+        'Fri, 04/29/2022 - 13:32',
+      guid: '1304181 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T17:32:03.000Z'
+    },
+    {
+      creator: 'kdunleavy',
+      title: 'Amid legal tumult, J&J shareholders reject proposal to end talc sales worldwide',
+      link: 'https://www.fiercepharma.com/pharma/johnson-johnson-shareholders-reject-proposal-end-sales-talc-products-outside-north-america',
+      pubDate: 'Fri, 29 Apr 2022 17:04:51 +0000',
+      'dc:creator': 'kdunleavy',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Amid legal tumult, J&J shareholders reject proposal to end talc sales worldwide</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/816" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">kdunleavy</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T17:04:51+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 13:04</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'Amid legal tumult, J&J shareholders reject proposal to end talc sales worldwide\n' +
+        'kdunleavy\n' +
+        'Fri, 04/29/2022 - 13:04',
+      guid: '1304176 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T17:04:51.000Z'
+    },
+    {
+      creator: 'zbecker',
+      title: "Amid Humira's decline, AbbVie's Rinvoq falls short of analyst forecasts and Skyrizi delivers",        
+      link: 'https://www.fiercepharma.com/pharma/abbvies-humira-rinvoq-fail-meet-market-expectations-q1',
+      pubDate: 'Fri, 29 Apr 2022 15:05:39 +0000',
+      'dc:creator': 'zbecker',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Amid Humira's decline, AbbVie's Rinvoq falls short of analyst forecasts and Skyrizi delivers</span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/896" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">zbecker</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T15:05:39+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 11:05</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "Amid Humira's decline, AbbVie's Rinvoq falls short of analyst forecasts and Skyrizi delivers\n" +
+        'zbecker\n' +
+        'Fri, 04/29/2022 - 11:05',
+      guid: '1304141 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T15:05:39.000Z'
+    },
+    {
+      creator: 'aliu',
+      title: 'Fierce Pharma Asia—Astellas’ gene therapy ding; BeiGene, Novartis’ PD-1 win; Serum Institute’s unused 
+COVID shots',
+      link: 'https://www.fiercepharma.com/pharma/astellas-gene-therapy-write-beigene-novartis-pd-1-win-serum-institutes-unused-covid-shots',
+      pubDate: 'Fri, 29 Apr 2022 12:53:28 +0000',
+      'dc:creator': 'aliu',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Fierce Pharma Asia—Astellas’ gene therapy ding; BeiGene, Novartis’ PD-1 win; Serum Institute’s unused COVID shots</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/786" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">aliu</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T12:53:28+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 08:53</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'Fierce Pharma Asia—Astellas’ gene therapy ding; BeiGene, Novartis’ PD-1 win; Serum Institute’s unused COVID shots\n' +
+        'aliu\n' +
+        'Fri, 04/29/2022 - 08:53',
+      guid: '1304066 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T12:53:28.000Z'
+    },
+    {
+      creator: 'aliu',
+      title: 'AstraZeneca’s Farxiga hits $1B quarterly mark, but flagship oncology and China units lag ',
+      link: 'https://www.fiercepharma.com/pharma/astrazenecas-farxiga-hits-1b-quarterly-mark-flagship-oncology-china-businesses-pull-back',
+      pubDate: 'Fri, 29 Apr 2022 14:46:54 +0000',
+      'dc:creator': 'aliu',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">AstraZeneca’s Farxiga hits $1B quarterly mark, but flagship oncology and China units lag </span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/786" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">aliu</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T14:46:54+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 10:46</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'AstraZeneca’s Farxiga hits $1B quarterly mark, but flagship oncology and China units lag \n' 
++
+        'aliu\n' +
+        'Fri, 04/29/2022 - 10:46',
+      guid: '1304126 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T14:46:54.000Z'
+    },
+    {
+      creator: 'zbecker',
+      title: "Gilead's two cents: Drugmaker gets a boost from Biktarvy, Veklury but $2.7B writedown crushes earnings",
+      link: 'https://www.fiercepharma.com/pharma/gilead-takes-home-66-billion-q1-veklury-boosts-sales',
+      pubDate: 'Fri, 29 Apr 2022 12:03:22 +0000',
+      'dc:creator': 'zbecker',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Gilead's two cents: Drugmaker gets a boost from Biktarvy, Veklury but $2.7B writedown crushes earnings</span>\n` +  
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/896" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">zbecker</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T12:03:22+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 08:03</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "Gilead's two cents: Drugmaker gets a boost from Biktarvy, Veklury but $2.7B writedown crushes earnings\n" +
+        'zbecker\n' +
+        'Fri, 04/29/2022 - 08:03',
+      guid: '1304046 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T12:03:22.000Z'
+    },
+    {
+      creator: 'zbecker',
+      title: 'COVID-19 tracker: SK bioscience, GSK vaccine passes phase 3; Novavax gets FDA adcomm date',
+      link: 'https://www.fiercepharma.com/pharma/covid-19-tracker-pfizer-targets-variant-specific-vaccines-fall',   
+      pubDate: 'Wed, 13 Apr 2022 18:42:33 +0000',
+      'dc:creator': 'zbecker',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">COVID-19 tracker: SK bioscience, GSK vaccine passes phase 3; Novavax gets FDA adcomm date</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/896" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">zbecker</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-13T18:42:33+00:00" class="field field--name-created field--type-created field--label-hidden">Wed, 04/13/2022 - 14:42</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'COVID-19 tracker: SK bioscience, GSK vaccine passes phase 3; Novavax gets FDA adcomm date\n' 
++
+        'zbecker\n' +
+        'Wed, 04/13/2022 - 14:42',
+      guid: '1301911 at https://www.fiercepharma.com',
+      isoDate: '2022-04-13T18:42:33.000Z'
+    },
+    {
+      creator: 'kdunleavy',
+      title: 'As superstar Revlimid fades faster than expected, BMS trims $600M from its 2022 sales projection',    
+      link: 'https://www.fiercepharma.com/pharma/sales-bristol-myers-revlimid-are-eroding-faster-expected-company-adjusts-projections',
+      pubDate: 'Fri, 29 Apr 2022 14:02:10 +0000',
+      'dc:creator': 'kdunleavy',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">As superstar Revlimid fades faster than expected, BMS trims $600M from its 2022 sales projection</span>\n' +        
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/816" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">kdunleavy</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T14:02:10+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 10:02</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'As superstar Revlimid fades faster than expected, BMS trims $600M from its 2022 sales projection\n' +
+        'kdunleavy\n' +
+        'Fri, 04/29/2022 - 10:02',
+      guid: '1304081 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T14:02:10.000Z'
+    },
+    {
+      creator: 'fkansteiner',
+      title: "Biogen CEO's 2021 pay remains level despite Aduhelm tribulations",
+      link: 'https://www.fiercepharma.com/pharma/biogen-ceos-2021-pay-remains-level-despite-aduhelm-tribulations',  
+      pubDate: 'Fri, 29 Apr 2022 12:21:41 +0000',
+      'dc:creator': 'fkansteiner',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Biogen CEO's 2021 pay remains level despite Aduhelm tribulations</span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/806" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">fkansteiner</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T12:21:41+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 08:21</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "Biogen CEO's 2021 pay remains level despite Aduhelm tribulations\n" +
+        'fkansteiner\n' +
+        'Fri, 04/29/2022 - 08:21',
+      guid: '1304051 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T12:21:41.000Z'
+    },
+    {
+      creator: 'sharon.coey',
+      title: 'How to reach Hispanics with healthcare messages? Mine the data first, Klick says',
+      link: 'https://www.fiercepharma.com/marketing/klick-offers-insights-hispanics-and-health',
+      pubDate: 'Fri, 29 Apr 2022 07:37:46 +0000',
+      'dc:creator': 'sharon.coey',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">How to reach Hispanics with healthcare messages? Mine the data first, Klick says</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/801" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">sharon.coey</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T07:37:46+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 04/29/2022 - 03:37</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'How to reach Hispanics with healthcare messages? Mine the data first, Klick says\n' +        
+        'sharon.coey\n' +
+        'Fri, 04/29/2022 - 03:37',
+      guid: '1304021 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T07:37:46.000Z'
+    },
+    {
+      creator: 'aliu',
+      title: "BeiGene CEO touts 'strategic asset' in flagship US site and a fix to stock delisting risk",
+      link: 'https://www.fiercepharma.com/manufacturing/beigene-kicks-work-flagship-manufacturing-and-rd-center-nj-amid-us-delisting-threat',
+      pubDate: 'Thu, 28 Apr 2022 15:17:04 +0000',
+      'dc:creator': 'aliu',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">BeiGene CEO touts 'strategic asset' in flagship US site and a fix to stock delisting risk</span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/786" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">aliu</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T15:17:04+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 11:17</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "BeiGene CEO touts 'strategic asset' in flagship US site and a fix to stock delisting risk\n" 
++
+        'aliu\n' +
+        'Thu, 04/28/2022 - 11:17',
+      guid: '1303931 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T15:17:04.000Z'
+    },
+    {
+      creator: 'fkansteiner',
+      title: 'Bristol Myers bags FDA nod for blockbuster-to-be cardio drug Camzyos',
+      link: 'https://www.fiercepharma.com/pharma/bristol-myers-bags-first-class-nod-cardiovascular-blockbuster-waiting-mavacamten',
+      pubDate: 'Thu, 28 Apr 2022 11:27:35 +0000',
+      'dc:creator': 'fkansteiner',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Bristol Myers bags FDA nod for blockbuster-to-be cardio drug Camzyos</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/806" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">fkansteiner</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T11:27:35+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 07:27</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'Bristol Myers bags FDA nod for blockbuster-to-be cardio drug Camzyos\n' +
+        'fkansteiner\n' +
+        'Thu, 04/28/2022 - 07:27',
+      guid: '1303856 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T11:27:35.000Z'
+    },
+    {
+      creator: 'aliu',
+      title: "Sanofi's Dupixent puts on another stellar show, and it's still 'at the beginning' of its journey: exec",
+      link: 'https://www.fiercepharma.com/pharma/sanofis-dupixent-puts-another-stellar-show-and-its-still-beginning-journey-exec',
+      pubDate: 'Thu, 28 Apr 2022 14:46:53 +0000',
+      'dc:creator': 'aliu',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Sanofi's Dupixent puts on another stellar show, and it's still 'at the beginning' of its journey: exec</span>\n` +  
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/786" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">aliu</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T14:46:53+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 10:46</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "Sanofi's Dupixent puts on another stellar show, and it's still 'at the beginning' of its journey: exec\n" +
+        'aliu\n' +
+        'Thu, 04/28/2022 - 10:46',
+      guid: '1303911 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T14:46:53.000Z'
+    },
+    {
+      creator: 'fkansteiner',
+      title: "If Lilly's Alzheimer's prospect proves its merit, it's 'inconceivable' CMS wouldn't cover the med: exec",
+      link: 'https://www.fiercepharma.com/pharma/lilly-stays-course-alzheimers-and-eyes-swifter-approval-obesity-back-strong-first-quarter',
+      pubDate: 'Thu, 28 Apr 2022 15:13:24 +0000',
+      'dc:creator': 'fkansteiner',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">If Lilly's Alzheimer's prospect proves its merit, it's 'inconceivable' CMS wouldn't cover the med: exec</span>\n` + 
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/806" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">fkansteiner</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T15:13:24+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 11:13</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "If Lilly's Alzheimer's prospect proves its merit, it's 'inconceivable' CMS wouldn't cover the med: exec\n" +
+        'fkansteiner\n' +
+        'Thu, 04/28/2022 - 11:13',
+      guid: '1303921 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T15:13:24.000Z'
+    },
+    {
+      creator: 'kdunleavy',
+      title: "Despite early doubts, Merck's COVID antiviral beats sales expectations and drives big growth",        
+      link: 'https://www.fiercepharma.com/pharma/merck-has-big-revenue-quarter-thanks-part-surprisingly-strong-sales-covid-pills',
+      pubDate: 'Thu, 28 Apr 2022 14:44:49 +0000',
+      'dc:creator': 'kdunleavy',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Despite early doubts, Merck's COVID antiviral beats sales expectations and drives big growth</span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/816" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">kdunleavy</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T14:44:49+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 10:44</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "Despite early doubts, Merck's COVID antiviral beats sales expectations and drives big growth\n" +
+        'kdunleavy\n' +
+        'Thu, 04/28/2022 - 10:44',
+      guid: '1303916 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T14:44:49.000Z'
+    },
+    {
+      creator: 'jkeenan',
+      title: 'WuXi Advanced Therapies teams with Singapore group on cell therapy production tech',
+      link: 'https://www.fiercepharma.com/pharma/wuxi-advanced-therapies-teams-singapore-group-cell-therapy-production-tech',
+      pubDate: 'Thu, 28 Apr 2022 13:14:07 +0000',
+      'dc:creator': 'jkeenan',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">WuXi Advanced Therapies teams with Singapore group on cell therapy production tech</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/821" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">jkeenan</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T13:14:07+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 09:14</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'WuXi Advanced Therapies teams with Singapore group on cell therapy production tech\n' +      
+        'jkeenan\n' +
+        'Thu, 04/28/2022 - 09:14',
+      guid: '1303881 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T13:14:07.000Z'
+    },
+    {
+      creator: 'zbecker',
+      title: "'These lives matter': Oxfam and partners urge J&J, Pfizer and Moderna investors to focus on vaccine equity efforts",
+      link: 'https://www.fiercepharma.com/pharma/these-lives-matter-oxfam-urges-jj-pfizer-and-moderna-investors-press-companies-vaccine',
+      pubDate: 'Wed, 27 Apr 2022 19:37:42 +0000',
+      'dc:creator': 'zbecker',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">'These lives matter': Oxfam and partners urge J&J, Pfizer and Moderna investors to focus on vaccine equity efforts</span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/896" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">zbecker</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-27T19:37:42+00:00" class="field field--name-created field--type-created field--label-hidden">Wed, 04/27/2022 - 15:37</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "'These lives matter': Oxfam and partners urge J&J, Pfizer and Moderna investors to focus on vaccine equity efforts\n" +
+        'zbecker\n' +
+        'Wed, 04/27/2022 - 15:37',
+      guid: '1303791 at https://www.fiercepharma.com',
+      isoDate: '2022-04-27T19:37:42.000Z'
+    },
+    {
+      creator: 'tcarey',
+      title: "The Top Line podcast: Pharma advertising shifts gears and Novartis taps a surprising M&A czar, plus this week's headlines ",
+      link: 'https://www.fiercepharma.com/content/top-line-podcast-pharma-advertising-shifts-gears-and-novartis-taps-surprising-ma-czar-plus',
+      pubDate: 'Fri, 29 Apr 2022 00:30:55 +0000',
+      'dc:creator': 'tcarey',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">The Top Line podcast: Pharma advertising shifts gears and Novartis taps a surprising M&A czar, plus this week's headlines </span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/871" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">tcarey</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-29T00:30:55+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 20:30</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "The Top Line podcast: Pharma advertising shifts gears and Novartis taps a surprising M&A czar, plus this week's headlines \n" +
+        'tcarey\n' +
+        'Thu, 04/28/2022 - 20:30',
+      guid: '1304006 at https://www.fiercepharma.com',
+      isoDate: '2022-04-29T00:30:55.000Z'
+    },
+    {
+      creator: 'fkansteiner',
+      title: 'BioMarin posts record quarterly sales as Voxzogo launch heats up',
+      link: 'https://www.fiercepharma.com/pharma/biomarin-posts-record-first-quarter-revenues-voxzogo-launch-heats',      pubDate: 'Thu, 28 Apr 2022 12:38:42 +0000',
+      'dc:creator': 'fkansteiner',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">BioMarin posts record quarterly sales as Voxzogo launch heats up</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/806" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">fkansteiner</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T12:38:42+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 08:38</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'BioMarin posts record quarterly sales as Voxzogo launch heats up\n' +
+        'fkansteiner\n' +
+        'Thu, 04/28/2022 - 08:38',
+      guid: '1303871 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T12:38:42.000Z'
+    },
+    {
+      creator: 'kdunleavy',
+      title: "AstraZeneca's Ultomiris scores its 3rd FDA approval, setting up market clash with argenx",
+      link: 'https://www.fiercepharma.com/pharma/astrazenecas-ultomiris-continues-its-rapid-ascent-fda-nod-generalized-myasthenia-gravis',
+      pubDate: 'Thu, 28 Apr 2022 12:04:18 +0000',
+      'dc:creator': 'kdunleavy',
+      content: `<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">AstraZeneca's Ultomiris scores its 3rd FDA approval, setting up market clash with argenx</span>\n` +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/816" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">kdunleavy</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T12:04:18+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 08:04</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: "AstraZeneca's Ultomiris scores its 3rd FDA approval, setting up market clash with argenx\n" +        'kdunleavy\n' +
+        'Thu, 04/28/2022 - 08:04',
+      guid: '1303861 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T12:04:18.000Z'
+    },
+    {
+      creator: 'jkeenan',
+      title: 'Moderna to name Montreal for new biomanufacturing facility: report',
+      link: 'https://www.fiercepharma.com/pharma/moderna-name-montreal-site-new-biomanufacturing-facility',
+      pubDate: 'Thu, 28 Apr 2022 12:17:57 +0000',
+      'dc:creator': 'jkeenan',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Moderna to name Montreal for new biomanufacturing facility: report</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/821" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">jkeenan</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T12:17:57+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 08:17</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'Moderna to name Montreal for new biomanufacturing facility: report\n' +
+        'jkeenan\n' +
+        'Thu, 04/28/2022 - 08:17',
+      guid: '1303866 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T12:17:57.000Z'
+    },
+    {
+      creator: 'sharon.coey',
+      title: 'Novartis rolls first Leqvio TV ads, focusing on resilient patients—and convenient dosing',
+      link: 'https://www.fiercepharma.com/marketing/novartis-focuses-patient-resilience-dtc-campaign-leqvio',       
+      pubDate: 'Thu, 28 Apr 2022 07:20:04 +0000',
+      'dc:creator': 'sharon.coey',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Novartis rolls first Leqvio TV ads, focusing on resilient patients—and convenient dosing</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/801" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">sharon.coey</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-28T07:20:04+00:00" class="field field--name-created field--type-created field--label-hidden">Thu, 04/28/2022 - 03:20</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'Novartis rolls first Leqvio TV ads, focusing on resilient patients—and convenient dosing\n' +        'sharon.coey\n' +
+        'Thu, 04/28/2022 - 03:20',
+      guid: '1303846 at https://www.fiercepharma.com',
+      isoDate: '2022-04-28T07:20:04.000Z'
+    },
+    {
+      creator: 'zbecker',
+      title: 'Amgen vows to fight $7.1B tax bill tied to Puerto Rico manufacturing unit',
+      link: 'https://www.fiercepharma.com/pharma/amgen-vows-fight-71b-tax-bill-tied-puerto-rico-manufacturing-unit',      pubDate: 'Wed, 27 Apr 2022 21:13:19 +0000',
+      'dc:creator': 'zbecker',
+      content: '<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Amgen vows to fight $7.1B tax bill tied to Puerto Rico manufacturing unit</span>\n' +
+        '<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.fiercepharma.com/user/896" typeof="schema:Person" property="schema:name" datatype="" 
+xml:lang="">zbecker</span></span>\n' +
+        '<span property="schema:dateCreated" content="2022-04-27T21:13:19+00:00" class="field field--name-created field--type-created field--label-hidden">Wed, 04/27/2022 - 17:13</span>\n' +
+        '\n' +
+        '\n',
+      contentSnippet: 'Amgen vows to fight $7.1B tax bill tied to Puerto Rico manufacturing unit\n' +
+        'zbecker\n' +
+        'Wed, 04/27/2022 - 17:13',
+      guid: '1303811 at https://www.fiercepharma.com',
+      isoDate: '2022-04-27T21:13:19.000Z'
+    }
+  ],
+  title: 'All Stories',
+  description: '',
+  link: 'https://www.fiercepharma.com/',
+  language: 'en'
+}
+pickedData:  [
+  {
+    id: '1e699cc3-64c9-4790-a7f9-4ca2eb702847',
+    title: "AbbVie's red-hot Rinvoq scores fourth FDA approval in five months",
+    url: 'https://www.fiercepharma.com/pharma/abbvies-rinvoq-scores-fourth-fda-approval-last-five-months-ankylosing-spondylitis-nod',
+    source: '1304221 at https://www.fiercepharma.com',
+    date: '2022-04-29T20:40:58.000Z'
+  },
+  {
+    id: '0c785d84-f9f7-4375-b96e-f14bfd876bad',
+    title: 'Pfizer loses top vaccine scientist Jansen who led drive for COVID-19 shot, searches for successor',     
+    url: 'https://www.fiercepharma.com/pharma/pfizer-loses-top-vaccine-scientist-jansen-searches-successor',        
+    source: '1304206 at https://www.fiercepharma.com',
+    date: '2022-04-29T19:23:24.000Z'
+  },
+  {
+    id: '0400287e-af5b-444c-941e-8ffe52f93c6e',
+    title: "Novo's Wegovy supply rebound on track for later this year as demand stays strong",
+    url: 'https://www.fiercepharma.com/pharma/novos-wegovy-supply-rebound-track-second-half-2022-execs-break-out-first-ever-sales-figures',
+    source: '1304181 at https://www.fiercepharma.com',
+    date: '2022-04-29T17:32:03.000Z'
+  },
+  {
+    id: '60d6a340-a3d6-4dcd-b1b4-7b40464f1ffb',
+    title: 'Amid legal tumult, J&J shareholders reject proposal to end talc sales worldwide',
+    url: 'https://www.fiercepharma.com/pharma/johnson-johnson-shareholders-reject-proposal-end-sales-talc-products-outside-north-america',
+    source: '1304176 at https://www.fiercepharma.com',
+    date: '2022-04-29T17:04:51.000Z'
+  },
+  {
+    id: '5f21ce2e-3d5d-4cc5-9f2a-d4d60bc1f51d',
+    title: "Amid Humira's decline, AbbVie's Rinvoq falls short of analyst forecasts and Skyrizi delivers",
+    url: 'https://www.fiercepharma.com/pharma/abbvies-humira-rinvoq-fail-meet-market-expectations-q1',
+    source: '1304141 at https://www.fiercepharma.com',
+    date: '2022-04-29T15:05:39.000Z'
+  },
+  {
+    id: 'b682f681-cf9a-4205-a0e6-e831cbfb3a1a',
+    title: 'Fierce Pharma Asia—Astellas’ gene therapy ding; BeiGene, Novartis’ PD-1 win; Serum Institute’s unused COVID shots',
+    url: 'https://www.fiercepharma.com/pharma/astellas-gene-therapy-write-beigene-novartis-pd-1-win-serum-institutes-unused-covid-shots',
+    source: '1304066 at https://www.fiercepharma.com',
+    date: '2022-04-29T12:53:28.000Z'
+  },
+  {
+    id: 'f187e7a9-981e-4414-9456-f58b50372119',
+    title: 'AstraZeneca’s Farxiga hits $1B quarterly mark, but flagship oncology and China units lag ',
+    url: 'https://www.fiercepharma.com/pharma/astrazenecas-farxiga-hits-1b-quarterly-mark-flagship-oncology-china-businesses-pull-back',
+    source: '1304126 at https://www.fiercepharma.com',
+    date: '2022-04-29T14:46:54.000Z'
+  },
+  {
+    id: '15a01056-c7dd-4b39-9337-7efe9b3e9684',
+    title: "Gilead's two cents: Drugmaker gets a boost from Biktarvy, Veklury but $2.7B writedown crushes earnings",    url: 'https://www.fiercepharma.com/pharma/gilead-takes-home-66-billion-q1-veklury-boosts-sales',
+    source: '1304046 at https://www.fiercepharma.com',
+    date: '2022-04-29T12:03:22.000Z'
+  },
+  {
+    id: '4c268e1b-f577-457a-ada2-4586583db5e0',
+    title: 'COVID-19 tracker: SK bioscience, GSK vaccine passes phase 3; Novavax gets FDA adcomm date',
+    url: 'https://www.fiercepharma.com/pharma/covid-19-tracker-pfizer-targets-variant-specific-vaccines-fall',      
+    source: '1301911 at https://www.fiercepharma.com',
+    date: '2022-04-13T18:42:33.000Z'
+  },
+  {
+    id: '206cca65-a939-4a93-8f26-288b915f66bb',
+    title: 'As superstar Revlimid fades faster than expected, BMS trims $600M from its 2022 sales projection',      
+    url: 'https://www.fiercepharma.com/pharma/sales-bristol-myers-revlimid-are-eroding-faster-expected-company-adjusts-projections',
+    source: '1304081 at https://www.fiercepharma.com',
+    date: '2022-04-29T14:02:10.000Z'
+  },
+  {
+    id: 'b9d74f82-50b9-4782-ab86-209a3bc833ca',
+    title: "Biogen CEO's 2021 pay remains level despite Aduhelm tribulations",
+    url: 'https://www.fiercepharma.com/pharma/biogen-ceos-2021-pay-remains-level-despite-aduhelm-tribulations',     
+    source: '1304051 at https://www.fiercepharma.com',
+    date: '2022-04-29T12:21:41.000Z'
+  },
+  {
+    id: '548a2f51-0e65-4a96-a182-77facc3a38de',
+    title: 'How to reach Hispanics with healthcare messages? Mine the data first, Klick says',
+    url: 'https://www.fiercepharma.com/marketing/klick-offers-insights-hispanics-and-health',
+    source: '1304021 at https://www.fiercepharma.com',
+    date: '2022-04-29T07:37:46.000Z'
+  },
+  {
+    id: '803e46c2-730d-4f31-ae05-0f4914f70953',
+    title: "BeiGene CEO touts 'strategic asset' in flagship US site and a fix to stock delisting risk",
+    url: 'https://www.fiercepharma.com/manufacturing/beigene-kicks-work-flagship-manufacturing-and-rd-center-nj-amid-us-delisting-threat',
+    source: '1303931 at https://www.fiercepharma.com',
+    date: '2022-04-28T15:17:04.000Z'
+  },
+  {
+    id: '09fbe63d-cd40-4a4a-a225-18b17797f29c',
+    title: 'Bristol Myers bags FDA nod for blockbuster-to-be cardio drug Camzyos',
+    url: 'https://www.fiercepharma.com/pharma/bristol-myers-bags-first-class-nod-cardiovascular-blockbuster-waiting-mavacamten',
+    source: '1303856 at https://www.fiercepharma.com',
+    date: '2022-04-28T11:27:35.000Z'
+  },
+  {
+    id: '48aa112f-2546-41a5-b451-3f46f9b6f69b',
+    title: "Sanofi's Dupixent puts on another stellar show, and it's still 'at the beginning' of its journey: exec",    url: 'https://www.fiercepharma.com/pharma/sanofis-dupixent-puts-another-stellar-show-and-its-still-beginning-journey-exec',
+    source: '1303911 at https://www.fiercepharma.com',
+    date: '2022-04-28T14:46:53.000Z'
+  },
+  {
+    id: 'b8604c09-2769-4bcd-bfcd-3b6f51fdedd5',
+    title: "If Lilly's Alzheimer's prospect proves its merit, it's 'inconceivable' CMS wouldn't cover the med: exec",
+    url: 'https://www.fiercepharma.com/pharma/lilly-stays-course-alzheimers-and-eyes-swifter-approval-obesity-back-strong-first-quarter',
+    source: '1303921 at https://www.fiercepharma.com',
+    date: '2022-04-28T15:13:24.000Z'
+  },
+  {
+    id: '0b6f8631-aced-43b3-9d9f-7f30e195647c',
+    title: "Despite early doubts, Merck's COVID antiviral beats sales expectations and drives big growth",
+    url: 'https://www.fiercepharma.com/pharma/merck-has-big-revenue-quarter-thanks-part-surprisingly-strong-sales-covid-pills',
+    source: '1303916 at https://www.fiercepharma.com',
+    date: '2022-04-28T14:44:49.000Z'
+  },
+  {
+    id: 'a634d248-3570-4c85-b95c-7447d9d4c9ee',
+    title: 'WuXi Advanced Therapies teams with Singapore group on cell therapy production tech',
+    url: 'https://www.fiercepharma.com/pharma/wuxi-advanced-therapies-teams-singapore-group-cell-therapy-production-tech',
+    source: '1303881 at https://www.fiercepharma.com',
+    date: '2022-04-28T13:14:07.000Z'
+  },
+  {
+    id: 'f5a9b292-ed44-4bb6-879a-4cb18dd46709',
+    title: "'These lives matter': Oxfam and partners urge J&J, Pfizer and Moderna investors to focus on vaccine equity efforts",
+    url: 'https://www.fiercepharma.com/pharma/these-lives-matter-oxfam-urges-jj-pfizer-and-moderna-investors-press-companies-vaccine',
+    source: '1303791 at https://www.fiercepharma.com',
+    date: '2022-04-27T19:37:42.000Z'
+  },
+  {
+    id: '9385a725-d879-4e32-afb2-015703008848',
+    title: "The Top Line podcast: Pharma advertising shifts gears and Novartis taps a surprising M&A czar, plus this week's headlines ",
+    url: 'https://www.fiercepharma.com/content/top-line-podcast-pharma-advertising-shifts-gears-and-novartis-taps-surprising-ma-czar-plus',
+    source: '1304006 at https://www.fiercepharma.com',
+    date: '2022-04-29T00:30:55.000Z'
+  },
+  {
+    id: '149a23ee-854d-422a-895d-ce60e9e4b3f9',
+    title: 'BioMarin posts record quarterly sales as Voxzogo launch heats up',
+    url: 'https://www.fiercepharma.com/pharma/biomarin-posts-record-first-quarter-revenues-voxzogo-launch-heats',   
+    source: '1303871 at https://www.fiercepharma.com',
+    date: '2022-04-28T12:38:42.000Z'
+  },
+  {
+    id: '35eee1ac-7a2b-45e1-8e2d-afcb75d610ff',
+    title: "AstraZeneca's Ultomiris scores its 3rd FDA approval, setting up market clash with argenx",
+    url: 'https://www.fiercepharma.com/pharma/astrazenecas-ultomiris-continues-its-rapid-ascent-fda-nod-generalized-myasthenia-gravis',
+    source: '1303861 at https://www.fiercepharma.com',
+    date: '2022-04-28T12:04:18.000Z'
+  },
+  {
+    id: '0ea04b25-4a27-44c2-8608-ce359ac4746c',
+    title: 'Moderna to name Montreal for new biomanufacturing facility: report',
+    url: 'https://www.fiercepharma.com/pharma/moderna-name-montreal-site-new-biomanufacturing-facility',
+    source: '1303866 at https://www.fiercepharma.com',
+    date: '2022-04-28T12:17:57.000Z'
+  },
+  {
+    id: '7ca27049-e364-4e66-846e-f2c1691556ea',
+    title: 'Novartis rolls first Leqvio TV ads, focusing on resilient patients—and convenient dosing',
+    url: 'https://www.fiercepharma.com/marketing/novartis-focuses-patient-resilience-dtc-campaign-leqvio',
+    source: '1303846 at https://www.fiercepharma.com',
+    date: '2022-04-28T07:20:04.000Z'
+  },
+  {
+    id: '9cbe9284-d5cd-4d00-b6f7-f856be2b9e27',
+    title: 'Amgen vows to fight $7.1B tax bill tied to Puerto Rico manufacturing unit',
+    url: 'https://www.fiercepharma.com/pharma/amgen-vows-fight-71b-tax-bill-tied-puerto-rico-manufacturing-unit',   
+    source: '1303811 at https://www.fiercepharma.com',
+    date: '2022-04-27T21:13:19.000Z'
+  }
+  ]
+}

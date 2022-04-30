@@ -1,6 +1,6 @@
 # :zap: Node CRON PostgreSQL
 
-* Node.js + Express used with the [node-cron module](https://www.npmjs.com/package/node-cron) to fetch API data and interract with a Supabase (PostgreSQL) database
+* Node.js + Express used with the [node-cron module](https://www.npmjs.com/package/node-cron) to fetch RSS feed data in XML format and interract with a web-based PostgreSQL database
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/node-cron-postgresql?style=plastic)
@@ -26,12 +26,12 @@
 
 ## :books: General info
 
-* Controllers: One for data
-* Models: tba
+* An RSS (Really Simple Syndication) feed is coded in XML (Extensible Markup Language) with stripped-down content so is quicker to load.
+* RSS parser used to convert XML to JS object
 
 ## :camera: Screenshots
 
-![Image](./imgs/node.png)
+![Image](./imgs/api.png)
 
 ## :signal_strength: Technologies
 
@@ -39,13 +39,15 @@
 * [Express v4](https://www.npmjs.com/package/express) web framework for node
 * [node-cron v3](https://www.npmjs.com/package/node-cron) tiny task scheduler in pure JavaScript for node.js based on GNU crontab, to schedule a task in node.js using full crontab syntax.
 * [config v3](https://www.npmjs.com/package/config) to organize hierarchical configurations for app deployment
+* [rss-parser v3](https://www.npmjs.com/package/rss-parser) to convert RSS feed to JS object
+* [uuid v8](https://www.npmjs.com/package/uuid) to create version 4 (random) RFC4122 UUIDs
 
 ## :floppy_disk: Setup
 
 * `npm i` to install dependencies
 * Create `.env` and add database credentials - see `.env.example`
 * `npm run dev` runs app in the development mode with auto-restart.
-* Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Open [http://localhost:3000](http://localhost:3000) to view it in the browser: `/api` to view supabase data, `/api/cron` to view cron data from XML feed that is not already in the supabase database
 
 ## :wrench: Testing
 
@@ -53,10 +55,18 @@
 
 ## :computer: Code Examples
 
-* tba
+* `supabase.service.ts` supabase client access function that can be imported into other files for supabase operations
 
 ```typescript
-tba
+import { createClient } from "@supabase/supabase-js";
+import config from "config";
+
+const dbUrl = config.get<string>("dbUrl");
+const dbKey = config.get<string>("dbKey");
+
+const supabase = createClient(dbUrl, dbKey);
+
+export default supabase;
 ```
 
 ## :cool: Features
@@ -65,17 +75,19 @@ tba
 
 ## :clipboard: Status, Testing & To-Do List
 
-* Status: Code complete and part tested
-* To-Do: Complete testing using Thunder Client
+* Status: Working
+* To-Do: Add other RSS feeds with separate database storage. Add frontend?
 
 ## :clap: Inspiration
 
 * [node-cron documentation](https://nodecron.com/docs/)
 * [LogRocket: Organizing your Express.js project structure for better productivity](https://blog.logrocket.com/organizing-express-js-project-structure-better-productivity/)
+* [Joseph Mawa: How to Schedule a Job in Node Using node-cron](https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/)
+* [BusinessInsider: A guide to using RSS feeds, the files that contain real-time updates from websites](https://www.businessinsider.com/what-is-rss-feed)
 
 ## :file_folder: License
 
-* N/A
+* This project is licensed under the terms of the MIT license.
 
 ## :envelope: Contact
 
