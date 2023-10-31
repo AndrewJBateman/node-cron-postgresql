@@ -21,6 +21,6 @@ export const getDataHandler = async (req: any, res: any) => {
 
 export const getCronHandler = async (req: any, res: any) => {
   const data = await runCronJob();
-  console.log('cron data:', data)
+  console.log("cron data:", data);
   return res.send(data);
 };

@@ -14,27 +14,28 @@ const runCronJob = async () => {
   // {
   //   id: '9cbe9284-d5cd-4d00-b6f7-f856be2b9e27',
   //   title: 'Amgen vows to fight $7.1B tax bill tied to Puerto Rico manufacturing unit',
-  //   url: 'https://www.fiercepharma.com/pharma/amgen-vows-fight-71b-tax-bill-tied-puerto-rico-manufacturing-unit',   
+  //   url: 'https://www.fiercepharma.com/pharma/amgen-vows-fight-71b-tax-bill-tied-puerto-rico-manufacturing-unit',
   //   source: '1303811 at https://www.fiercepharma.com',
   //   date: '2022-04-27T21:13:19.000Z'
   // }
   const rssData = await xmlFeed();
-  const pickedData = rssData.items
-    .map(pickFeedItem)
-    .map((item: any) => ({
-      id: uuidv4(),
-      ...pick(item, ["title"]),
-      url: item.link,
-      source: item.guid,
-      date: new Date(item.pubDate).toISOString(),
-    }));
+  const pickedData = rssData.items.map(pickFeedItem).map((item: any) => ({
+    id: uuidv4(),
+    ...pick(item, ["title"]),
+    url: item.link,
+    source: item.guid,
+    date: new Date(item.pubDate).toISOString(),
+  }));
+  console.log('picked data: ', pickedData);
 
   // Filter out feed items that are already in the DB
   const allSources = pickedData.map((entry: any) => entry.source);
-  console.log('allSources: ', allSources)
   const { data: overlappingSourcesDbResult, error: overlappingQueryError } =
     await supabase.from(dbTableName).select("source").in("source", allSources);
-  console.log('data, error: ', { data: overlappingSourcesDbResult, error: overlappingQueryError })
+  // console.log("data, error: ", {
+  //   data: overlappingSourcesDbResult,
+  //   error: overlappingQueryError,
+  // });
   if (overlappingQueryError) {
     throw new Error(overlappingQueryError.message);
   }
